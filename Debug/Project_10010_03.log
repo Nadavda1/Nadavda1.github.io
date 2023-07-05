@@ -1,2 +1,11 @@
-﻿  main.c
+﻿  Address.c
+  Customer.c
+  General.c
+  Product.c
+  ShoppingCart.c
+  ShoppingItem.c
+  Supermarket.c
+  listGen.c
+  main.c
+  Generating Code...
   Project_10010_03.vcxproj -> C:\Users\nadav\source\repos\Project_10010_03\Debug\Project_10010_03.exe
